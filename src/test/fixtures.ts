@@ -1,0 +1,16 @@
+export const validAnswers = {
+  fullName: 'Ama Sample',
+  institution: 'ug',
+  programme: 'Economics, Year 3',
+  phone: '+233 50 123 4567',
+  email: 'ama@example.com',
+  campusReach: 'Legon Hall and Balme Library',
+  motivation: 'I would like to help students connect.',
+  experience: 'I organised a study group of eight classmates.',
+  availability: '3 hours, Tuesday and Saturday',
+  otherRoles: '',
+  phoneModel: 'Samsung A15, Android',
+  paymentAnswer: 'No, there is no payment for using the app.',
+  comfortable: 'no' as const,
+  honesty: true,
+};
